@@ -13118,11 +13118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryanl\\source\\repos\\DotaBank\\DotaBank\\DotaBank.csproj",
+      "projectUniqueName": "C:\\Users\\ryanl\\AppData\\Local\\Programs\\Microsoft VS Code\\MSA18Assignment2\\DotaBank\\DotaBank\\DotaBank.csproj",
       "projectName": "DotaBank",
-      "projectPath": "C:\\Users\\ryanl\\source\\repos\\DotaBank\\DotaBank\\DotaBank.csproj",
+      "projectPath": "C:\\Users\\ryanl\\AppData\\Local\\Programs\\Microsoft VS Code\\MSA18Assignment2\\DotaBank\\DotaBank\\DotaBank.csproj",
       "packagesPath": "C:\\Users\\ryanl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryanl\\source\\repos\\DotaBank\\DotaBank\\obj\\",
+      "outputPath": "C:\\Users\\ryanl\\AppData\\Local\\Programs\\Microsoft VS Code\\MSA18Assignment2\\DotaBank\\DotaBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

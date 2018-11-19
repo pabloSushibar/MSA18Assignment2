@@ -12,3 +12,17 @@ C:\Users\ryanl\source\repos\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.A
 C:\Users\ryanl\source\repos\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.RazorTargetAssemblyInfo.cache
 C:\Users\ryanl\source\repos\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.dll
 C:\Users\ryanl\source\repos\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.pdb
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\bin\Debug\netcoreapp2.1\DotaBank.deps.json
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\bin\Debug\netcoreapp2.1\DotaBank.runtimeconfig.json
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\bin\Debug\netcoreapp2.1\DotaBank.runtimeconfig.dev.json
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\bin\Debug\netcoreapp2.1\DotaBank.dll
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\bin\Debug\netcoreapp2.1\DotaBank.pdb
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.csprojAssemblyReference.cache
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.csproj.CoreCompileInputs.cache
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.RazorAssemblyInfo.cache
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.RazorAssemblyInfo.cs
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.AssemblyInfoInputs.cache
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.AssemblyInfo.cs
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.RazorTargetAssemblyInfo.cache
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.dll
+C:\Users\ryanl\AppData\Local\Programs\Microsoft VS Code\MSA18Assignment2\DotaBank\DotaBank\obj\Debug\netcoreapp2.1\DotaBank.pdb
